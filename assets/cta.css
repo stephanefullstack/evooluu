@@ -1,0 +1,29 @@
+.sociaux {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px 0px 30px 0px;
+}
+
+.cta2 {
+  height: 40px;
+  width: 70px;
+}
+
+.buttonmailchimp {
+
+}
+
+/*<style type="text/css">*/
+  #mc_embed_signup{
+    padding: 0 10% 0 10%;
+    background:#dcd7d6;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+    width:100%;
+  }
+  /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+/*</style>*/
+
+/*<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">*/
+
