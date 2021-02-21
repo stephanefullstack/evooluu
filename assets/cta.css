@@ -10,7 +10,19 @@
 }
 
 .buttonmailchimp {
+  border: none;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  color: #50394c;
+}
 
+.email {
+  border: none;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  color: #50394c;
 }
 
 /*<style type="text/css">*/
