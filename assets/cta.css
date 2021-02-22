@@ -33,8 +33,10 @@
     background:#ffef96;
     clear:left;
     font:14px Helvetica,Arial,sans-serif;
-    width:100%;
+    width:80%;
     border: none;
+    /*display: flex;*/
+    padding: 0 20%;
   }
   /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
